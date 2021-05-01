@@ -1,0 +1,34 @@
+---
+componentName:  default
+
+welcomeStyleCalamares: false
+welcomeExpandingLogo: true
+windowExpanding: normal
+windowSize: 1100px,700px
+windowPlacement: center
+sidebar: widget
+navigation: widget
+
+strings:
+    productName:         PushLinux
+    shortProductName:    PushLinux
+    version:             2021.01.1
+    shortVersion:        2020.01.1
+    versionedName:       PushLinux
+    shortVersionedName:  PushLinux
+    bootloaderEntryName: Generic
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "squid.png"
+    productWallpaper:    "wallpaper.png"
+    productWelcome:      "languages.png"
+
+style:
+   sidebarBackground:    "transparent"
+   sidebarText:          "#EFEFEF"
+   sidebarTextSelect:    "#EFEFEF"
+   sidebarTextHighlight: "#202a2f"
+
+slideshow:               "show.qml"
+slideshowAPI: 2
