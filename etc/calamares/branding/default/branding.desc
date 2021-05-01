@@ -10,14 +10,13 @@ sidebar: widget
 navigation: widget
 
 strings:
-    productName:         PushLinux
-    shortProductName:    PushLinux
-    version:             2021.01.1
-    shortVersion:        2020.01.1
-    versionedName:       PushLinux
-    shortVersionedName:  PushLinux
+    productName:         "@{NAME}"
+    shortProductName:    ArcoBobo
+    version:             Rolling
+    shortVersion:        Rolling
+    versionedName:       ArcoBobo
+    shortVersionedName:  ArcoBobo
     bootloaderEntryName: Generic
-
 images:
     productLogo:         "logo.png"
     productIcon:         "squid.png"
